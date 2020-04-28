@@ -21,3 +21,7 @@ function My_First_Function() {
     var result = str.fontcolor("green");
     document.getElementById("Green_Text").innerHTML = result;
 }
+
+var A = ("Good ");
+var B = ("Morning!");
+document.write(A+B)
