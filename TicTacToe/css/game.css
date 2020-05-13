@@ -28,7 +28,6 @@ body {
     text-align: center;
     color: darkblue;
     font-weight: bold;
-    font-family: ;
     font-size: 45px;
 }
 
@@ -70,6 +69,7 @@ table tr:nth-child(3) td:nth-child(3) {
 table tr:nth-child(3) td:nth-child(1) {
     border-radius: 0px 0px 0px 10px;
 }
+
 .photo-container {
     height: 200px;
     width: 200px;
