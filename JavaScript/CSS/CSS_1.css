@@ -1,0 +1,49 @@
+input[type=text], select {
+    width: 100%;
+    padding: 8px 5px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: rgb(243, 202, 99);
+}
+
+input[type=email], select {
+    width: 100%;
+    padding: 8px 5px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: rgb(243, 202, 99);
+}
+
+input[type=submit] {
+    width: 100%;
+    padding: 12px 5px;
+    margin: 8px 0;
+    background-color: rgb(214, 159, 19);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: darkorange;
+    color: black;
+    font-weight: bold;
+}
+
+div {
+    background-color: rgba(10, 8, 32, 0.959);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+form {
+    color: white;
+}
