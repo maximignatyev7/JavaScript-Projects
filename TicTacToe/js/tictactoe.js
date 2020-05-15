@@ -792,5 +792,5 @@ function animateO(selected) {
 
 //this function will perform the animation for the X avatar.
 function animateX(selected) {
-    selected.style.transform = (selected.style.transform == "translateY(-100%)" || null)? "translateY(0%)" : "translateY(-100%)";
+    selected.style.transform = (selected.style.transform == "translateY(0%)" || null)? "translateY(0%)" : "translateY(0%)";
 }
